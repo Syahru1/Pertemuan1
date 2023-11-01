@@ -16,5 +16,6 @@ public class billingWarnet {
         System.out.println("Hallo nama saya syahrul");
         System.out.println("Saya mahasiswa polinema");
         System.out.println("Dari jurusan TI");
+        System.out.println("Saya punya teman yang bernama syahrul");
     }
 }

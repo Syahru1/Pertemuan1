@@ -13,5 +13,8 @@ public class billingWarnet {
         total = harga_per_jam * jam;
         System.out.println("Jumlah yang harus dibayar sebesar Rp" + total);
         System.out.println("Ini program iseng");
+        System.out.println("Hallo nama saya syahrul");
+        System.out.println("Saya mahasiswa polinema");
+        System.out.println("Dari jurusan TI");
     }
 }
